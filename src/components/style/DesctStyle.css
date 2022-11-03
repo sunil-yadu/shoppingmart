@@ -1,0 +1,12 @@
+
+  .DescBtn{
+    padding: 5px 10px;
+    font-weight: bold;
+    letter-spacing: 2px;
+    border: none;
+    outline: none;
+    color: black;
+    background-color: gray;
+    border-radius: 5px;
+    cursor: pointer;
+  }
